@@ -1,5 +1,19 @@
 # Try out eframe real time plotting
 <!-- keep the format -->
+## Motivation
+<!-- keep the format -->
+- Motivation to see how we are doing
+<!-- keep the format -->
+## Reason
+<!-- keep the format -->
+- For fun, out of curiosity, to learn, to browse the market with their own tools, etc.
+<!-- keep the format -->
+## Sources
+<!-- keep the format -->
+yt vid - Rust egui brainflow 6 eframe real-time plotting [![alt text][1]](https://www.youtube.com/watch?v=fy4YKPdBylM)
+<!-- keep the format -->
+## Project path see here [![alt text][1]](./project_path.md)
+<!-- keep the format -->
 >[!TIP]
 >Add link to files - README.md [![alt text][1]](./README.md) and project_path.md [![alt text][1]](./project_path.md)
 ><!-- -->
