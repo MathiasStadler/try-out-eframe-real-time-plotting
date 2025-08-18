@@ -11,6 +11,12 @@
 ## Sources
 <!-- keep the format -->
 yt vid - Rust egui brainflow 6 eframe real-time plotting [![alt text][1]](https://www.youtube.com/watch?v=fy4YKPdBylM)
+Rust egui brainflow 5 EEG eframe https://www.youtube.com/watch?v=AZEeHH1XGDQ
+Rust egui brainflow 4 real time plot https://www.youtube.com/watch?v=DfOLDv1RnEg 
+Rust egui brainflow 3 egui_plot eframe https://www.youtube.com/watch?v=6Rnqe3OMlj0
+Rust egui brainflow 2 egui_plot eframe https://www.youtube.com/watch?v=9xwys8h-myc
+Rust egui brainflow 1 eframe egui_plot https://www.youtube.com/watch?v=0d_ChfrM2Bw
+
 <!-- keep the format -->
 ## Project path see here [![alt text][1]](./project_path.md)
 <!-- keep the format -->
