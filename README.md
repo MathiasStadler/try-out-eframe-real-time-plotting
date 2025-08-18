@@ -1,4 +1,4 @@
-# try out eframe real time plotting
+# Try out eframe real time plotting
 <!-- keep the format -->
 >[!TIP]
 >Add link to files - README.md [![alt text][1]](./README.md) and project_path.md [![alt text][1]](./project_path.md)
