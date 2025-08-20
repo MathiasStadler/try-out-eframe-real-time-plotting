@@ -1,4 +1,4 @@
-# Try out eframe real time plotting
+# Try out eframe real time plotting with cursor
 <!-- keep the format -->
 ## Motivation
 <!-- keep the format -->

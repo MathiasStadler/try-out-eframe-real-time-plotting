@@ -3,6 +3,7 @@
         "brainflow",
         "eframe",
         "egui",
+        "rustc",
         "rustup",
         "Wrrong"
     ]

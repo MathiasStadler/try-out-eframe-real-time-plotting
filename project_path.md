@@ -44,6 +44,87 @@ touch README.md \
 && rustup show |sed -n '/active toolchain/,/^$/p'
 ```
 <!-- keep the format -->
+<!-- keep the format -->
+## Show which toolchain is active
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+rustup show
+# or better
+rustup show |sed -n '/active toolchain/,/^$/p'
+```
+<!-- keep the format -->
+## Set/switch  rust toolchain - switch stable to nightly and back
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+rustup override set nightly
+#or
+rustup override set stable
+```
+<!-- keep the format -->
+## Show rustc version verbose
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+rustc --version --verbose
+```
+<!-- keep the format -->
+>&nbsp;[!TIP]
+> Make sure the stable toolchain is activated
+<!-- keep the format -->
+>[!TIP] Markdownlint - Rules inside files can be enabled, disabled
+> <!-- markdownlint-disable-next-line --> [![alt text][1]](https://github.com/DavidAnson/markdownlint)
+<!-- keep the format -->
+## Clean the project - remove every things inside the target folder
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo clean
+```
+<!-- keep the format -->
+## Build the project
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo build
+```
+<!-- keep the format -->
+## Run the project
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo run
+# naive path of execute
+# <project_folder>/target/debug/try-out-eframe-real-time-plotting
+# cd <project_folder>
+target/debug/try-out-eframe-real-time-plotting
+```
+<!-- keep the format -->
+## File size of executable
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+ls -lah target/debug/try-out-eframe-real-time-plotting
+```
+<!-- keep the format -->
+## Build the project - release
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo build --release
+```
+<!-- keep the format -->
+## Run the project - release
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo run - release
+# or direct path
+target/release/try-out-eframe-real-time-plotting
+```
+<!-- keep the format -->
+## File size of executable -release
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+ls -lah target/release/try-out-eframe-real-time-plotting
+```
+<!-- keep the format -->
+>[!NOTE] File size differences between the executable debug and release version 10/1
+> debug -  3825448 kb
+> release - 442176 kb
+<!-- keep the format -->
 >[!NOTE]
 >Place symbol for link
 <!-- keep the format -->
