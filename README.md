@@ -2,13 +2,13 @@
 <!-- keep the format -->
 ## Motivation
 <!-- keep the format -->
-- Motivation to see how we are doing
+- Motivation to see how it works
 <!-- keep the format -->
 ## Reason
 <!-- keep the format -->
-- For fun, out of curiosity, to learn, to browse the market with their own tools, etc.
+-For fun, out of curiosity, to learn to create your own tools
 <!-- keep the format -->
-## Sources
+## Sources - among other things
 <!-- keep the format -->
 yt vid - Rust egui brainflow 6 eframe real-time plotting [![alt text][1]](https://www.youtube.com/watch?v=fy4YKPdBylM)
 Rust egui brainflow 5 EEG eframe  [![alt text][1]](https://www.youtube.com/watch?v=AZEeHH1XGDQ)

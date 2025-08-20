@@ -67,7 +67,7 @@ rustup override set stable
 rustc --version --verbose
 ```
 <!-- keep the format -->
->&nbsp;[!TIP]
+>[!TIP]
 > Make sure the stable toolchain is activated
 <!-- keep the format -->
 >[!TIP] Markdownlint - Rules inside files can be enabled, disabled
@@ -125,6 +125,16 @@ ls -lah target/release/try-out-eframe-real-time-plotting
 >File size differences between the executable debug and release version 10/1
 > debug -  3825448 kb
 > release - 442176 kb
+<!-- keep the format -->
+## Add crates
+<!-- keep the format -->
+```bash <!-- markdownlint-disable-line code-block-style -->
+cargo add egui
+cargo add eframe
+cargo add image
+cargo add yard
+cargo add tracing-subscriber
+ ```
 <!-- keep the format -->
 >[!NOTE]
 >Place symbol for link
