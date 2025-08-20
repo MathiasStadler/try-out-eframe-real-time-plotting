@@ -17,6 +17,8 @@ Rust egui brainflow 3 egui_plot eframe  [![alt text][1]](https://www.youtube.com
 Rust egui brainflow 2 egui_plot eframe  [![alt text][1]](https://www.youtube.com/watch?v=9xwys8h-myc)
 Rust egui brainflow 1 eframe egui_plot  [![alt text][1]](https://www.youtube.com/watch?v=0d_ChfrM2Bw)
 
+Learning Rust through coding egui part 1 Rustegui eframe
+https://www.youtube.com/watch?v=mZufimDRF3I&list=PLGao6MQABi3GNzOAIOj5h87GiFBLGLRmj
 <!-- keep the format -->
 ## Project path see here [![alt text][1]](./project_path.md)
 <!-- keep the format -->
