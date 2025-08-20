@@ -121,7 +121,8 @@ target/release/try-out-eframe-real-time-plotting
 ls -lah target/release/try-out-eframe-real-time-plotting
 ```
 <!-- keep the format -->
->[!NOTE] File size differences between the executable debug and release version 10/1
+>[!NOTE]
+>File size differences between the executable debug and release version 10/1
 > debug -  3825448 kb
 > release - 442176 kb
 <!-- keep the format -->
