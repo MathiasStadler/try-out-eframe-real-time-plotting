@@ -136,6 +136,12 @@ cargo add yard
 cargo add tracing-subscriber
  ```
 <!-- keep the format -->
+## Monitor sccache
+<!-- -->
+- sccache is not working? Or what is do is not what I expect? [![alt text][1]](https://www.reddit.com/r/rust/comments/l295gw/sccache_is_not_working_or_what_is_do_is_not_what/)
+  -You can also check the sccache stats **sccache -s**
+  - clean your cache by removing everything under ~/.cache/sccache and then time cargo build twice
+<!-- kep the format -->
 >[!NOTE]
 >Place symbol for link
 <!-- keep the format -->
